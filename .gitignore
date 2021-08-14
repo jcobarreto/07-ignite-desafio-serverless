@@ -3,6 +3,12 @@ node_modules
 jspm_packages
 .env
 
+# DynamoDB Local files
+.dynamodb/
+
+# Webpack
+.webpack
+
 # Serverless directories
 .serverless
 
